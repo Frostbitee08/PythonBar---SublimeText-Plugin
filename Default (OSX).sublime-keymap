@@ -1,0 +1,4 @@
+[
+	{ "keys": ["super+R"], "command": "run_in_pythonbar" },
+	{ "keys": ["alt+super+s"], "command": "save_in_pythonbar" }
+]

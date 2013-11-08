@@ -1,0 +1,11 @@
+[
+    {
+        "id": "file",
+        "children":
+        [
+            {"id": "wrap"},
+            { "command": "run_in_pythonbar" },
+            { "command": "save_in_pythonbar"}
+        ]
+    }
+]
